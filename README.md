@@ -1,5 +1,3 @@
-## [![](https://visitcount.itsvg.in/api?id=KshitijAdhikaree&icon=1&color=9)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 
 🔭 I’m currently working on Asp.Net Core<br>👯 I’m looking to collaborate on Web Dev<br>🌱 I’m currently learning Model View Controller<br>💬 Ask me about C#, React and SQL<br>📫 How to reach me adhikareekshitij@gmail.com<br>📝 I regularly write articles on https://kshitijadhikaree.com.np
@@ -29,6 +27,7 @@
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+## [![](https://visitcount.itsvg.in/api?id=KshitijAdhikaree&icon=1&color=9)](https://visitcount.itsvg.in)
 ---
 
 ## 💰 You can help me by Donating
